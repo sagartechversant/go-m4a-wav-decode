@@ -1,4 +1,4 @@
-module github.com/IzumiSy/go-m4a-wav-decode
+module github.com/sagartechversant/go-m4a-wav-decode
 
 go 1.17
 
