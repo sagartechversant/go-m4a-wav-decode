@@ -3,11 +3,11 @@ package main
 import (
 	"flag"
 	"fmt"
-	"go-m4a-wav-decode/mp4audio"
 	"io"
 	"os"
 
 	fdkaac "github.com/IzumiSy/go-fdkaac"
+	"github.com/IzumiSy/go-m4a-wav-decode/mp4audio"
 	"github.com/cryptix/wav"
 )
 
