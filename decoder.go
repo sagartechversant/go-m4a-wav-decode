@@ -7,8 +7,8 @@ import (
 	"os"
 
 	fdkaac "github.com/IzumiSy/go-fdkaac"
-	"github.com/IzumiSy/go-m4a-wav-decode/mp4audio"
 	"github.com/cryptix/wav"
+	"github.com/sagartechversant/go-m4a-wav-decode/mp4audio"
 )
 
 var (
